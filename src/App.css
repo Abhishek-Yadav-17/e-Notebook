@@ -1,0 +1,20 @@
+.navbar{
+  position: sticky;
+  top: 0;
+}
+
+.about{
+  padding: 10% 0;
+  text-align: center;
+  color: rgb(194, 226, 253);
+  height: 87vh;
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: rgb(3, 13, 24);
+  /* background-image: url(https://static.vecteezy.com/system/resources/previews/001/987/497/original/abstract-stripes-golden-lines-diagonal-overlap-on-black-background-luxury-stryle-free-vector.jpg); */
+}
+
+.about h1{
+  line-height: 3;
+  text-shadow: 2px 2px 8px #00c8ff;
+}

@@ -1,0 +1,24 @@
+i{
+  cursor: pointer;
+}
+
+.nav-edit{
+ background-color: rgb(231, 231, 231); 
+}
+
+.img-fluid{
+  height: 400px;
+  width: 400px;
+}
+
+.notes-list{
+  padding: 3rem;
+}
+
+.note-img{
+  text-align: center;
+}
+
+.note-img img{
+  margin-top: 5rem;
+}
